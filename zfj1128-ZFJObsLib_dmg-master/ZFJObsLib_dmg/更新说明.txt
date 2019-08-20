@@ -1,0 +1,19 @@
+本次更新-V1.1.3
+1.优化属性混淆属性字段重合出错；
+2.优化方法混淆移除override混淆；
+3.强化类名混淆适配swift；
+4.强化翻新资源名适配swift；
+5.修复部分垃圾类创建路径有误；
+
+教学视频:
+链接:https://pan.baidu.com/s/1pqUkgU8YxSzjqTzpHlAD6g  密码:9sll
+
+详细说明:
+Python-iOS代码混淆-马甲包混淆工具（Python脚本混淆iOS工程）
+https://zfj1128.blog.csdn.net/article/details/95482006
+
+下载地址：
+https://gitee.com/zfj1128/ZFJObsLib_dmg
+
+备注：
+如果可以请去给我的博客和git点个赞👍👍👍！
